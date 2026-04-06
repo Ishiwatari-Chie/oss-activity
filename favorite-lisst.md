@@ -11,3 +11,8 @@ https://goodfirstissue.dev/language/java
 
 ＜Javaを使ったissue＞
 - [ ] https://github.com/JabRef/jabref.git
+- [ ] https://github.com/oracle/opengrok.git
+- [ ] https://github.com/dbeaver/dbeaver.git
+    →SQL系
+- [ ] https://github.com/TeamNewPipe/NewPipe.git
+    →動画投稿プラットフォームのよう。
