@@ -18,3 +18,10 @@ https://goodfirstissue.dev/language/java
     * 動画投稿プラットフォームのよう
 - [ ] https://github.com/dtinit/data-transfer-project.git
     * Googleなどでデータを相互にやり取りするDTOのようなもの
+- [ ] https://github.com/checkstyle/checkstyle.git
+    * Javaのコード規約をチェックするツール
+- [ ] https://github.com/questdb/questdb.git
+    * Javaで書かれた超高速な時系列DB
+    * ビルドコストがかかるため、今の開発環境で可能か再検討が必要
+- [ ] https://github.com/androidx/media.git
+    * GoogleのAndroidにおけるメディア再生ツール
