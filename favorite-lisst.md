@@ -25,3 +25,11 @@ https://goodfirstissue.dev/language/java
     * ビルドコストがかかるため、今の開発環境で可能か再検討が必要
 - [ ] https://github.com/androidx/media.git
     * GoogleのAndroidにおけるメディア再生ツール
+- [ ] https://github.com/assertj/assertj.git
+    * テストコードを書く用のライブラリ
+    個人開発では画面打鍵・コードチェック含めて一人でテストも行う必要があるため頼りたい
+- [ ] https://github.com/mapstruct/mapstruct.git
+    * 異なるJava Bean（DTOなど）間の詰め替えを自動化するツール
+    個人開発でのJavaとReactでの間の値受け渡しに役立つ知見が得られるかも？
+- [ ] https://github.com/projectlombok/lombok.git
+    * 様々な現場で使われているらしい
