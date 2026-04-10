@@ -33,3 +33,5 @@ https://goodfirstissue.dev/language/java
     個人開発でのJavaとReactでの間の値受け渡しに役立つ知見が得られるかも？
 - [ ] https://github.com/projectlombok/lombok.git
     * 様々な現場で使われているらしい
+- [ ] https://github.com/apache/commons-lang.git
+    * Java標準ライブラリ（JDK）が提供しきれていない、地味だけれど頻出する機能を補完する感じ
