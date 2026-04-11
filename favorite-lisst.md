@@ -35,3 +35,4 @@ https://goodfirstissue.dev/language/java
     * 様々な現場で使われているらしい
 - [ ] https://github.com/apache/commons-lang.git
     * Java標準ライブラリ（JDK）が提供しきれていない、地味だけれど頻出する機能を補完する感じ
+- [ ] https://github.com/h2database/h2database.git
