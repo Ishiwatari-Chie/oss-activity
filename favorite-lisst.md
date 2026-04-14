@@ -46,3 +46,5 @@ is:open is:issue label:"good first issue" language:Java
 - [ ] https://github.com/apache/commons-lang.git
     * Java標準ライブラリ（JDK）が提供しきれていない、地味だけれど頻出する機能を補完する感じ
 - [ ] https://github.com/h2database/h2database.git
+- [ ] https://github.com/first-contributions-ja/first-contributions-ja.github.io
+    * 一連の流れを学べるリポジトリ
