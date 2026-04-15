@@ -12,9 +12,9 @@ is:open is:issue label:"good first issue" language:Java
 その他、組み合わせているフィルター
 "typo"：変数名やコメントのタイポ（打ち間違い）修正であり、コードの書き換えではないもの。
 
-"unit test"：「テストコードが足りない箇所にテストを追加してほしい」という依頼。既存のテストを真似して書けば良いため、きちんと理解しながら書くことで、自身のテストスキルへの貢献等、トレーニングとして有効。
+"unit test"：「テストコードが足りない箇所にテストを追加してほしい」という依頼。既存のテストを真似して書けば良いため、きちんと理解しながら書くことで、自身のテストスキルへの貢献等、トレーニングとして有効活用したい。
 
-"documentation"：READMEや解説文の修正・まずはここから始めて、そのOSSの「作法」を学ぶことができる。
+"documentation"：READMEや解説文の修正。そのOSSの「作法」を学ぶことができるもの。
 
 ある程度のOSSでの経験を積んだのち、活動に慣れた後は、過去に研修で基礎学習を行ったReactやTypeScript等の言語のissueにも挑戦していくつもりです。
 
@@ -40,11 +40,13 @@ is:open is:issue label:"good first issue" language:Java
     個人開発では画面打鍵・コードチェック含めて一人でテストも行う必要があるため頼りたい
 - [ ] https://github.com/mapstruct/mapstruct.git
     * 異なるJava Bean（DTOなど）間の詰め替えを自動化するツール
-    個人開発でのJavaとReactでの間の値受け渡しに役立つ知見が得られるかも？
+    個人開発でのJavaとReactでの間の値受け渡しに役立つ知見が得られる可能性がある
 - [ ] https://github.com/projectlombok/lombok.git
     * 様々な現場で使われているらしい
 - [ ] https://github.com/apache/commons-lang.git
-    * Java標準ライブラリ（JDK）が提供しきれていない、地味だけれど頻出する機能を補完する感じ
+    * Java標準ライブラリ（JDK）が提供しきれていない、地味だけれど頻出する機能を補完するもの
 - [ ] https://github.com/h2database/h2database.git
+- [ ] https://github.com/firstcontributions/first-contributions.git
+    * 一連の活動を学べるリポジトリ　英語で書かれた本家。活動はこちらで行う
 - [ ] https://github.com/first-contributions-ja/first-contributions-ja.github.io
-    * 一連の流れを学べるリポジトリ
+    * 一連の流れを学べるリポジトリ こちらは日本語翻訳版
